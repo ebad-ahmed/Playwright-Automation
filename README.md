@@ -16,7 +16,7 @@ To get started with the Playwright Behave framework, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using Git:
 
     ```
-    git clone https://github.com/ZahidSmile/Playwright-Behave.git
+    https://github.com/ebad-ahmed/Playwright-Automation.git
     ```
 
 2. **Install Dependencies**: Install the required Python dependencies using pip:
