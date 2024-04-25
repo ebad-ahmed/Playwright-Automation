@@ -2,6 +2,7 @@ from behave import *
 from pages.addremove_code import AddRemoveProduct
 
 
+
 @Given('I am on the home page')
 def on_home(context):
     context.page = AddRemoveProduct(context.page)
